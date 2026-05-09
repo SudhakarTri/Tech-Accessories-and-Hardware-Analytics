@@ -44,8 +44,6 @@ Detailed steps of the project execution are documented here:
 ---
 
 ## 📊 Dataset Overview
-This project uses the **AtliQ Hardware datasets (gdb041 and gdb056)** , which are **publicly available on Kaggle and GitHub**.  
-
 - **Database Tables:** Customer, Market, Product dimensions; Sales & Forecast fact tables; Costs & Deductions  
 - **Excel Files:** Market share, Operational expenses, NS/GM targets  
 
@@ -101,6 +99,6 @@ Watch separate demonstration for each view of the dashboard :  **[Dashboard Demo
 
 ### 📌 Disclaimer  
 This dashboard is published for **portfolio and demonstration purposes only.**
-- The dataset is publicly available on Kaggle/GitHub.
+- This project uses the **AtliQ Hardware datasets (gdb041 and gdb056)** , which are **publicly available on Kaggle and GitHub**. .
 - Used strictly for educational and demonstration purposes to showcase analytics and visualization skills.
 - No proprietary or confidential data is shared in this project.
