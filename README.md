@@ -1,5 +1,5 @@
 
-# 📊 Power BI Complete Business Insights 360
+# 📊 Tech Accessories and Hardware Analytics
 ---
 
 ## 🌟 Business Context 
