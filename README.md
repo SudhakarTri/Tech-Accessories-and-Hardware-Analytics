@@ -4,13 +4,13 @@
 
 ## 🌟 Business Context 
 
-AtliQ Hardware is a global consumer goods company specializing in computer hardware and peripherals such as PCs, printers, and accessories. Operating primarily on a **B2B model**, it sells to major retailers including Croma, Best Buy, Staples, Flipkart, and Amazon, while also running its own branded stores (AtliQ E‑store and AtliQ Exclusive) and collaborating with distributors in restricted trade regions. The dashboards in this project simulate these real‑world operations across **Finance, Sales, Marketing, Supply Chain, and Executive functions**.
+This project simulates the operations of a global consumer goods company specializing in computer hardware and peripherals such as PCs, printers, and accessories. Operating primarily on a **B2B model**, it sells to major retailers including Croma, Best Buy, Staples, Flipkart, and Amazon, while also running its own branded stores and collaborating with distributors in restricted trade regions. The dashboards in this project simulate these real‑world operations across **Finance, Sales, Marketing, Supply Chain, and Executive functions**.
 
 ---
 
 ## 🎯 Project Objective
 
-AtliQ Hardware, a global consumer goods company, faced losses due to outdated Excel‑based analytics. Competitors with modern BI solutions were outperforming them.
+Company faced losses due to outdated Excel‑based analytics. Competitors with modern BI solutions were outperforming them.
 This project builds a **Power BI dashboard using 1.8M+ records** from multiple sources (Excel, CSV, MySQL) to deliver actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive functions.
 
 ---
